@@ -1,0 +1,6 @@
+#scans through this document to find a date that matches today, and sends an email
+# to that correspoding email address by sending a random letter from one of the .txt
+# files, and <REPLACE> the [NAME] placeholder:
+
+
+# after MIDNIGHT, you will have to update your testing methods!
